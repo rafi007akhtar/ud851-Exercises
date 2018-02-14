@@ -94,7 +94,6 @@ public class MainActivity extends AppCompatActivity implements
 
 
     // TODO (24) Remove the button and testNotification code
-    
     public void testNotification(View view) {
         NotificationUtils.remindUserBecauseCharging(this);
     }
